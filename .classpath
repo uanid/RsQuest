@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="F:/마인크래프트/리소스 플러그인/rsquest/EpicBossRecoded.jar"/>
+	<classpathentry kind="lib" path="F:/마인크래프트/리소스 플러그인/rsquest/rpgexpsystem3.jar"/>
+	<classpathentry kind="lib" path="F:/마인크래프트/리소스 플러그인/rsquest/RsMoney2.jar"/>
+	<classpathentry kind="lib" path="F:/마인크래프트/리소스 플러그인/rsquest/RsPrefix.jar"/>
+	<classpathentry kind="lib" path="F:/마인크래프트/리소스 플러그인/rsquest/RsStats.jar"/>
+	<classpathentry kind="lib" path="F:/마인크래프트/리소스 플러그인/rsquest/RsTimer.jar"/>
+	<classpathentry kind="lib" path="F:/마인크래프트/리소스 플러그인/rsquest/spigot-api-1.5.2-R0.2-hydrox-20130705.011928-2.jar"/>
+	<classpathentry kind="lib" path="F:/마인크래프트/리소스 플러그인/rsquest/vault.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

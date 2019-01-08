@@ -1,0 +1,20 @@
+﻿name: RsQuest
+version: 1.2.1
+main: kr.tpsw.rsquest.RsQuest
+author: TPsw
+softdepend: [RpgExpSystem, RsStats, Vault, RsMoney2, RsPrefix, RsTimer]
+
+commands:
+    qsadmin:
+        aliases: [퀘관리]
+        description: '플러그인 관리 어드민용 명령어.'
+        permission: 'rsquest.admin'
+    quest:
+        aliases: [퀘스트]
+        description: '유저용 일반 명령어.'
+    rsquest:
+        aliases: [알피지퀘스트]
+        description: '플러그인 정보 확인 명령어.'
+    qsupdate:
+        description: '플러그인 업데이트 명령어.'
+        permission: 'rsquest.admin'
